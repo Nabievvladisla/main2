@@ -12,5 +12,5 @@ using namespace std;
 
 int main()
 {
-    cout<<"Привіт,\nВладиславе!";
+    cout<<"Привіт,\nВладиславе Набієве!";
 }
